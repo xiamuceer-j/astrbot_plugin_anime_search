@@ -1,4 +1,4 @@
-# helloworld
+# anime_search
 
 AstrBot 插件模板
 
