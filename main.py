@@ -16,7 +16,7 @@ class AnimeSearchPlugin(Star):
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
             'Cookie': 'Hm_lvt_7fdef555dc32f7d31fadd14999021b7b=1743995269; HMACCOUNT=7684B2F2E92F5605; notice=202547; cleanMode=0; Hm_lpvt_7fdef555dc32f7d31fadd14999021b7b=1743995601'
         }
-        self.cache_dir = os.path.join(os.getcwd(), 'search_cache')
+        self.cache_dir = os.path.join(os.getcwd(), 'data/search_cache')
         os.makedirs(self.cache_dir, exist_ok=True)
 
     def _get_cache_path(self, user_id: str) -> str:
