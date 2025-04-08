@@ -3,4 +3,4 @@ desc: 查询AGE上的动漫。 # 插件简短描述
 help: 支持模糊查询，返回动漫封面图，标题，首播时间，简介，详情和播放🔗。 # 插件的帮助信息
 version: 1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: xiamuceer-j # 作者
-repo: https://github.com/xiamuceer-j/anime_search # 插件的仓库地址
+repo: https://github.com/xiamuceer-j/astrbot_plugin_anime_search # 插件的仓库地址
