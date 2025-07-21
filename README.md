@@ -23,7 +23,7 @@
 ```
 ## 📌 注意事项
 1. 本插件对接网站：https://www.agedm.org/
-2. 如果觉得好用，可以去赞助一下作者哟：https://mumu-blog.sbs:3389/zanzhu/
+2. 如果觉得好用，可以去赞助一下作者哟：https://mumuverse.space:1510/zanzhu/
 
 ## 📜 开源协议
 本项目采用 [MIT License](LICENSE)
